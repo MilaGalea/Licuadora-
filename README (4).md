@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milangela Galea</h1>
-<h3 align="center">Calculadora HTML, CSS y JavaScript</h3>
+<h3 align="center">Licuadora HTML, CSS y JavaScript</h3>
 
 - 🌱 I’m currently learning **en coderhouse**
 
